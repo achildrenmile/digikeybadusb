@@ -1,4 +1,4 @@
-//This DigiSpark script creates a text file on desktop with pwned message
+//This DigiSpark script creates a text file on desktop with pwned message - based on https://maker.pro/arduino/projects/how-to-build-a-rubber-ducky-usb-with-arduino-using-a-digispark-module
 #include "DigiKeyboard.h"
 void setup() {
 }
